@@ -6,10 +6,10 @@ Upcoming Masters Student majoring in Computer Science. Entusiatic computer geek 
 
 ### Education
 
-```
+
 Masters in Computer Science 
 `University of Oklahoma`
-```
+
 
 ```markdown
 Syntax highlighted code block

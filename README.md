@@ -7,8 +7,8 @@ Upcoming Masters Student majoring in Computer Science. Entusiatic computer geek 
 ### Education
 
 ```
-# Masters in Computer Science 
-## University of Oklahoma
+Masters in Computer Science 
+`University of Oklahoma`
 ```
 
 ```markdown

@@ -4,9 +4,12 @@ Got some time to know more about me!
 
 Upcoming Masters Student majoring in Computer Science. Entusiatic computer geek interested in exploring new technologies. Mastered a handful of technologies and tools. 
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
+# Masters in Computer Science 
+## University of Oklahoma
+```
 
 ```markdown
 Syntax highlighted code block

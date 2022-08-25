@@ -14,8 +14,8 @@ Masters in Computer Science
 ```markdown
 Education
 
-# University of Oklahoma
-## Header 2
+# University of Oklahoma               
+## Masters in Computer Science (2021-2023)
 ### Header 3
 
 - Bulleted

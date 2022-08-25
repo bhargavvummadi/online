@@ -12,9 +12,9 @@ Masters in Computer Science
 
 
 ```markdown
-Syntax highlighted code block
+Education
 
-# Header 1
+# University of Oklahoma
 ## Header 2
 ### Header 3
 
